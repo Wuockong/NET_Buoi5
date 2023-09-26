@@ -21,23 +21,41 @@ namespace _07_2001210455_BuiQuocCong
         {
 
         }
-        private double Cong (double a, double b)
-        {
-            return a + b;
-        }
-        private double Tru (double a, double b)
-        {
-            return a - b;
-        }
-        private double Nhan (double a, double b)
-        {
-            return a * b;
-        }
-        private double Chia (double a, double b)
-        {
-            return a * 1.0 / b;
-        }
-        private void btnCong_Click(o)
 
+        private void btnCong_Click(object sender, EventArgs e)
+        {
+            int n = 0, m = 0;
+            if (int.TryParse(txtA.Text, out n) &&  int.TryParse(txtB.Text, out m))
+                txtKQ.Text = (n + m).ToString();
+            else
+                txtKQ.Text = "Vui long nhap gia tri so";
+        }
+
+        private void btnTru_Click(object sender, EventArgs e)
+        {
+            int n = 0, m = 0;
+            if (int.TryParse(txtA.Text, out n) &&  int.TryParse(txtB.Text, out m))
+                txtKQ.Text = (n - m).ToString();
+            else
+                txtKQ.Text = "Vui long nhap gia tri so";
+        }
+
+        private void btnNhan_Click(object sender, EventArgs e)
+        {
+            int n = 0, m = 0;
+            if (int.TryParse(txtA.Text, out n) &&  int.TryParse(txtB.Text, out m))
+                txtKQ.Text = (n * m).ToString();
+            else
+                txtKQ.Text = "Vui long nhap gia tri so";
+        }
+
+        private void btnChia_Click(object sender, EventArgs e)
+        {
+            int n = 0, m = 0;
+            if (int.TryParse(txtA.Text, out n) &&  int.TryParse(txtB.Text, out m))
+                txtKQ.Text = (n * 1.0 / m).ToString();
+            else
+                txtKQ.Text = "Vui long nhap gia tri so";
+        }
     }
 }
