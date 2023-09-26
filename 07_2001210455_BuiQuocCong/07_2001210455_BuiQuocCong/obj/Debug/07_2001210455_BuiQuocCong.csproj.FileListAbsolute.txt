@@ -18,3 +18,5 @@ D:\Học\NET Thiếu Nhi\Bài Tập Chính\NET_Buoi5\07_2001210455_BuiQuocCong\0
 D:\Học\NET Thiếu Nhi\Bài Tập Chính\NET_Buoi5\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\bin\Debug\07_2001210455_BuiQuocCong.exe
 D:\Học\NET Thiếu Nhi\Bài Tập Chính\NET_Buoi5\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\bin\Debug\07_2001210455_BuiQuocCong.pdb
 D:\Học\NET Thiếu Nhi\Bài Tập Chính\NET_Buoi5\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\obj\Debug\07_2001210455_BuiQuocCong.pdb
+D:\Học\NET Thiếu Nhi\Bài Tập Chính\NET_Buoi5\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\obj\Debug\_07_2001210455_BuiQuocCong.Bai2.resources
+D:\Học\NET Thiếu Nhi\Bài Tập Chính\NET_Buoi5\07_2001210455_BuiQuocCong\07_2001210455_BuiQuocCong\obj\Debug\_07_2001210455_BuiQuocCong.Bai3.resources
